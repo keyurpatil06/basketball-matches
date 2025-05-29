@@ -1,6 +1,6 @@
 # 🏀 Basketball Matches Viewer
 
-A simple web app to display completed basketball matches using the API-Sports Basketball API. Built with **Next.js 15**, **TypeScript**, and **TailwindCSS**.
+A simple web app to display basketball matches using the API-Sports Basketball API. Built with **Next.js 15**, **TypeScript**, and **TailwindCSS**.
 
 ## 🚀 Features
 
